@@ -1,4 +1,4 @@
-#Ace3DS (pre-2014)#
+# Ace3DS (pre-2014)
 
 Information:
 DSTTi Clone
